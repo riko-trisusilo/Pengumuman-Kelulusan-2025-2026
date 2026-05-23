@@ -1,0 +1,6 @@
+{
+  "name": "Kelulusan SDN 008",
+  "description": "Aplikasi Pengumuman dan Cek Kelulusan Siswa Kelas 6 SDN 008 Samarinda Ulu Tahun Pelajaran 2025/2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
